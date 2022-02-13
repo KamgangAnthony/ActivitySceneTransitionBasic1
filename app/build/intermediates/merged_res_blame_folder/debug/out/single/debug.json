@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\merged_res\\debug\\layout_grid_item.xml.flat",
+        "source": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\merged_res\\debug\\transition_grid_detail_transition.xml.flat",
+        "source": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\transition\\grid_detail_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\merged_res\\debug\\layout_grid.xml.flat",
+        "source": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\merged_res\\debug\\layout_details.xml.flat",
+        "source": "C:\\Users\\kamga\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\src\\main\\res\\layout\\details.xml"
+    }
+]
